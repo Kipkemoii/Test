@@ -1,3 +1,2 @@
 # Test
 Testing git hooks
-...
