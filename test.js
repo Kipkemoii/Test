@@ -4,6 +4,7 @@ const vault = require("node-vault")({
 });
 
 // const roleId = process.env.ROLE_ID;
+echo "test";
 // const secretId = process.env.SECRET_ID;
 const roleId = "8a61ecc7-e12a-5cae-a6b9-8d1d112a5cd2";
 const secretId = "8da927c2-141d-958d-ac14-b0546ae5b1dc";
